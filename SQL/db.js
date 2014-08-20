@@ -17,6 +17,7 @@ dbConnection.connect();
  * See https://github.com/felixge/node-mysql for more details about
  * using this module.*/
 
+
 //use this to refactor later
 // var executeQuery = function(query, param, cb){
 //   if (!cb) {
